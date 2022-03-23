@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: digitalocean/flask-helloworld:latest
+        image: saurabhdw/newtest:latest
         ports:
         - containerPort: 5000
